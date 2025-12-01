@@ -1,16 +1,18 @@
 # Projeto de Indicadores com Base no Censo 2010
-Este repositório contém um conjunto de indicadores sociais desenvolvidos no âmbito da disciplina Prática Estatística 1. O projeto reúne indicadores que foram construídos com base em dados coletados pelo Censo Demográfico de 2010, uma pesquisa realizada pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Esses dados fornecem uma visão ampla da realidade socioeconômica de diversos municípios brasileiros, auxiliando no planejamento e na formulação de políticas públicas voltadas à redução das desigualdades e à melhoria das condições de vida da população.
+Este repositório reúne um conjunto de indicadores sociais desenvolvidos no âmbito da disciplina Prática Estatística 1. O projeto foi construído a partir dos dados do Censo Demográfico de 2010, realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Essas informações permitem uma visão abrangente da realidade socioeconômica de diferentes municípios brasileiros, contribuindo para o planejamento e a formulação de políticas públicas voltadas à redução das desigualdades e à melhoria das condições de vida da população.
 
-Os indicadores presentes neste repositório abordam temas variados e essenciais para o entendimento das dinâmicas sociais, econômicas e demográficas no Brasil. Entre os tópicos destacados, estão:
+Os indicadores presentes neste repositório abordam temas essenciais para o entendimento das dinâmicas sociais, econômicas e demográficas no Brasil. Entre os principais tópicos, destacam-se:
 
 ### Condições Socioeconômicas:
-Englobam indicadores realacionados à renda, escolarização e acesso a serviços essenciais. Esses dados permitem mapear desigualdades e orientar estratégias de intervenção social.
+Indicadores realacionados à renda, escolarização e acesso a serviços essenciais. Esses dados permitem mapear desigualdades e orientar estratégias de intervenção social.
 
 ### Infraestrutura Domiciliar:
-Reúne métricas sobre acesso a água potável, esgotamento sanitário, fornecimento de energia e condições físicas da moradia. Esses aspectos ajudam a identificar vulnerabilidades estruturais que afetam diretamente saúde, bem-estar e segurança ambiental.
+Métricas que avaliam o acesso a água potável, esgotamento sanitário, fornecimento de energia e condições físicas das moradias. Esses elementos ajudam a identificar vulnerabilidades estruturais que afetam diretamente a saúde, o bem-estar e o ambiente domiciliar.
 
 ### Desigualdades Étnico-Raciais:
-Agrupa indicadores que mostram diferenças entre grupos raciais no acesso à educação, renda, moradia e serviços, revelando desigualdades persistentes em diversas dimensões sociais.
+Indicadores que mostram diferenças entre grupos raciais no acesso à educação, renda, moradia e serviços, revelando desigualdades persistentes em diversas dimensões sociais.
 
 ### Dinâmicas Demográficas:
-Representam a distribuição da população por idade e território, fundamentais para entender mudanças populacionais e planejar políticas.
+Informações sobre a distribuição da população por idade e território, fundamentais para compreender mudanças demográficas e planejar políticas públicas de médio e longo prazo.
+
+Os indicadores reunidos possibilitam uma leitura aprofundada das desigualdades sociais no Rio de Janeiro, apoiando pesquisadores e gestores públicos na elaboração de políticas mais eficazes e direcionadas. Ao disponibilizar esses dados de forma acessível, o repositório fortalece práticas de transparência e oferece suporte estratégico para ações de planejamento territorial, inclusão social e desenvolvimento sustentável.
